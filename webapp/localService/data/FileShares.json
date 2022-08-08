@@ -1,0 +1,122 @@
+[
+    {
+        "FileShare": "FileShare1",
+        "FileShareType": "1",
+        "FileShareRoot": "FileShareRoot1",
+        "FileShareDescription": "FileShareDescription1"
+    },
+    {
+        "FileShare": "FileShare2",
+        "FileShareType": "2",
+        "FileShareRoot": "FileShareRoot2",
+        "FileShareDescription": "FileShareDescription2"
+    },
+    {
+        "FileShare": "FileShare3",
+        "FileShareType": "3",
+        "FileShareRoot": "FileShareRoot3",
+        "FileShareDescription": "FileShareDescription3"
+    },
+    {
+        "FileShare": "FileShare4",
+        "FileShareType": "4",
+        "FileShareRoot": "FileShareRoot4",
+        "FileShareDescription": "FileShareDescription4"
+    },
+    {
+        "FileShare": "FileShare5",
+        "FileShareType": "5",
+        "FileShareRoot": "FileShareRoot5",
+        "FileShareDescription": "FileShareDescription5"
+    },
+    {
+        "FileShare": "FileShare6",
+        "FileShareType": "6",
+        "FileShareRoot": "FileShareRoot6",
+        "FileShareDescription": "FileShareDescription6"
+    },
+    {
+        "FileShare": "FileShare7",
+        "FileShareType": "7",
+        "FileShareRoot": "FileShareRoot7",
+        "FileShareDescription": "FileShareDescription7"
+    },
+    {
+        "FileShare": "FileShare8",
+        "FileShareType": "8",
+        "FileShareRoot": "FileShareRoot8",
+        "FileShareDescription": "FileShareDescription8"
+    },
+    {
+        "FileShare": "FileShare9",
+        "FileShareType": "9",
+        "FileShareRoot": "FileShareRoot9",
+        "FileShareDescription": "FileShareDescription9"
+    },
+    {
+        "FileShare": "FileShare10",
+        "FileShareType": "0",
+        "FileShareRoot": "FileShareRoot10",
+        "FileShareDescription": "FileShareDescription10"
+    },
+    {
+        "FileShare": "FileShare11",
+        "FileShareType": "1",
+        "FileShareRoot": "FileShareRoot11",
+        "FileShareDescription": "FileShareDescription11"
+    },
+    {
+        "FileShare": "FileShare12",
+        "FileShareType": "2",
+        "FileShareRoot": "FileShareRoot12",
+        "FileShareDescription": "FileShareDescription12"
+    },
+    {
+        "FileShare": "FileShare13",
+        "FileShareType": "3",
+        "FileShareRoot": "FileShareRoot13",
+        "FileShareDescription": "FileShareDescription13"
+    },
+    {
+        "FileShare": "FileShare14",
+        "FileShareType": "4",
+        "FileShareRoot": "FileShareRoot14",
+        "FileShareDescription": "FileShareDescription14"
+    },
+    {
+        "FileShare": "FileShare15",
+        "FileShareType": "5",
+        "FileShareRoot": "FileShareRoot15",
+        "FileShareDescription": "FileShareDescription15"
+    },
+    {
+        "FileShare": "FileShare16",
+        "FileShareType": "6",
+        "FileShareRoot": "FileShareRoot16",
+        "FileShareDescription": "FileShareDescription16"
+    },
+    {
+        "FileShare": "FileShare17",
+        "FileShareType": "7",
+        "FileShareRoot": "FileShareRoot17",
+        "FileShareDescription": "FileShareDescription17"
+    },
+    {
+        "FileShare": "FileShare18",
+        "FileShareType": "8",
+        "FileShareRoot": "FileShareRoot18",
+        "FileShareDescription": "FileShareDescription18"
+    },
+    {
+        "FileShare": "FileShare19",
+        "FileShareType": "9",
+        "FileShareRoot": "FileShareRoot19",
+        "FileShareDescription": "FileShareDescription19"
+    },
+    {
+        "FileShare": "FileShare20",
+        "FileShareType": "0",
+        "FileShareRoot": "FileShareRoot20",
+        "FileShareDescription": "FileShareDescription20"
+    }
+]

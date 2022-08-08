@@ -1,0 +1,15 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="project1.controller.View1" xmlns:upload="sap.m.upload" displayBlock="true">
+				<App>
+					<Page>
+						 <upload:UploadSet  
+						 items="{path: 'TaskFileModel>/',sorter: [{ path: 'HStatusGroupSequence',descending: false, group: true }], groupHeaderFactory: '._getGroupHeader'}"
+						 cloudFilePickerEnabled="true"
+						 cloudFilePickerServiceUrl="/sap/opu/odata4/sap/ui_cmis_myfiles_04/srvd/sap/cmis_myfiles/0001/?sap-client=325">
+										<upload:items>
+											<upload:UploadSetItem id="UploadCollectionItem" fileName="{TaskFileModel>FileName}" visibleEdit="false" enabledEdit="false">
+											</upload:UploadSetItem>
+										</upload:items>
+			             </upload:UploadSet> 
+			       </Page>
+				</App>
+</mvc:View>

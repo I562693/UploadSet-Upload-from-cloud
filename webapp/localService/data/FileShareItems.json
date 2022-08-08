@@ -1,0 +1,462 @@
+[
+    {
+        "FileShare": "FileShare1",
+        "FileShareItem": "FileShareItem1",
+        "ParentFileShareItem": null,
+        "FileShareItemKind": "FileShare1",
+        "FileShareItemName": "FileShareItemName1",
+        "CreatedByUser": "CreatedByUser1",
+        "CreationDateTime": "1970-09-28T18:20:52",
+        "LastChangedByUser": "LastChangedByUser1",
+        "LastChangeDateTime": "1970-07-13T23:38:22",
+        "isDocumentCreationAllowed": false,
+        "FileShareItemContent": "FileShareItemContent1",
+        "FileShareItemContentType": "FileShareItemContentType1",
+        "FileShareItemContentSize": 5937584358293504,
+        "FileShareItemContentLink": "FileShareItemContentLink1",
+        "__CreateByAssociationControl": {
+            "_Children": true
+        },
+        "__EntityControl": {
+            "Deletable": false,
+            "Updatable": true
+        }
+    },
+    {
+        "FileShare": "FileShare2",
+        "FileShareItem": "FileShareItem2",
+        "ParentFileShareItem": "FileShareItem1",
+        "FileShareItemKind": "FileShare2",
+        "FileShareItemName": "FileShareItemName2",
+        "CreatedByUser": "CreatedByUser2",
+        "CreationDateTime": "2011-12-25T19:42:34",
+        "LastChangedByUser": "LastChangedByUser2",
+        "LastChangeDateTime": "1996-03-22T17:09:59",
+        "isDocumentCreationAllowed": false,
+        "FileShareItemContent": "FileShareItemContent2",
+        "FileShareItemContentType": "FileShareItemContentType2",
+        "FileShareItemContentSize": 8286519118790656,
+        "FileShareItemContentLink": "FileShareItemContentLink2",
+        "__CreateByAssociationControl": {
+            "_Children": true
+        },
+        "__EntityControl": {
+            "Deletable": true,
+            "Updatable": true
+        }
+    },
+    {
+        "FileShare": "FileShare3",
+        "FileShareItem": "FileShareItem3",
+        "ParentFileShareItem": "FileShareItem2",
+        "FileShareItemKind": "FileShare3",
+        "FileShareItemName": "FileShareItemName3",
+        "CreatedByUser": "CreatedByUser3",
+        "CreationDateTime": "1975-02-17T17:42:47",
+        "LastChangedByUser": "LastChangedByUser3",
+        "LastChangeDateTime": "1991-09-19T21:31:13",
+        "isDocumentCreationAllowed": true,
+        "FileShareItemContent": "FileShareItemContent3",
+        "FileShareItemContentType": "FileShareItemContentType3",
+        "FileShareItemContentSize": 961936992763904,
+        "FileShareItemContentLink": "FileShareItemContentLink3",
+        "__CreateByAssociationControl": {
+            "_Children": true
+        },
+        "__EntityControl": {
+            "Deletable": false,
+            "Updatable": true
+        }
+    },
+    {
+        "FileShare": "FileShare4",
+        "FileShareItem": "FileShareItem4",
+        "ParentFileShareItem": "FileShareItem2",
+        "FileShareItemKind": "FileShare4",
+        "FileShareItemName": "FileShareItemName4",
+        "CreatedByUser": "CreatedByUser4",
+        "CreationDateTime": "2006-11-15T00:20:12",
+        "LastChangedByUser": "LastChangedByUser4",
+        "LastChangeDateTime": "1979-07-24T04:51:31",
+        "isDocumentCreationAllowed": true,
+        "FileShareItemContent": "FileShareItemContent4",
+        "FileShareItemContentType": "FileShareItemContentType4",
+        "FileShareItemContentSize": 3053084718661632,
+        "FileShareItemContentLink": "FileShareItemContentLink4",
+        "__CreateByAssociationControl": {
+            "_Children": false
+        },
+        "__EntityControl": {
+            "Deletable": false,
+            "Updatable": true
+        }
+    },
+    {
+        "FileShare": "FileShare5",
+        "FileShareItem": "FileShareItem5",
+        "ParentFileShareItem": "FileShareItem1",
+        "FileShareItemKind": "FileShare5",
+        "FileShareItemName": "FileShareItemName5",
+        "CreatedByUser": "CreatedByUser5",
+        "CreationDateTime": "2003-08-20T04:29:33",
+        "LastChangedByUser": "LastChangedByUser5",
+        "LastChangeDateTime": "1985-11-11T10:35:35",
+        "isDocumentCreationAllowed": false,
+        "FileShareItemContent": "FileShareItemContent5",
+        "FileShareItemContentType": "FileShareItemContentType5",
+        "FileShareItemContentSize": 6628463159017472,
+        "FileShareItemContentLink": "FileShareItemContentLink5",
+        "__CreateByAssociationControl": {
+            "_Children": true
+        },
+        "__EntityControl": {
+            "Deletable": false,
+            "Updatable": true
+        }
+    },
+    {
+        "FileShare": "FileShare6",
+        "FileShareItem": "FileShareItem6",
+        "ParentFileShareItem": "FileShareItem1",
+        "FileShareItemKind": "FileShare6",
+        "FileShareItemName": "FileShareItemName6",
+        "CreatedByUser": "CreatedByUser6",
+        "CreationDateTime": "2009-01-15T16:18:35",
+        "LastChangedByUser": "LastChangedByUser6",
+        "LastChangeDateTime": "2002-08-30T06:17:47",
+        "isDocumentCreationAllowed": false,
+        "FileShareItemContent": "FileShareItemContent6",
+        "FileShareItemContentType": "FileShareItemContentType6",
+        "FileShareItemContentSize": 1885149935435776,
+        "FileShareItemContentLink": "FileShareItemContentLink6",
+        "__CreateByAssociationControl": {
+            "_Children": true
+        },
+        "__EntityControl": {
+            "Deletable": true,
+            "Updatable": false
+        }
+    },
+    {
+        "FileShare": "FileShare7",
+        "FileShareItem": "FileShareItem7",
+        "ParentFileShareItem": "FileShareItem5",
+        "FileShareItemKind": "FileShare7",
+        "FileShareItemName": "FileShareItemName7",
+        "CreatedByUser": "CreatedByUser7",
+        "CreationDateTime": "1980-05-24T12:30:30",
+        "LastChangedByUser": "LastChangedByUser7",
+        "LastChangeDateTime": "1981-02-18T21:50:37",
+        "isDocumentCreationAllowed": false,
+        "FileShareItemContent": "FileShareItemContent7",
+        "FileShareItemContentType": "FileShareItemContentType7",
+        "FileShareItemContentSize": 4141766473154560,
+        "FileShareItemContentLink": "FileShareItemContentLink7",
+        "__CreateByAssociationControl": {
+            "_Children": false
+        },
+        "__EntityControl": {
+            "Deletable": false,
+            "Updatable": false
+        }
+    },
+    {
+        "FileShare": "FileShare8",
+        "FileShareItem": "FileShareItem8",
+        "ParentFileShareItem": "FileShareItem2",
+        "FileShareItemKind": "FileShare8",
+        "FileShareItemName": "FileShareItemName8",
+        "CreatedByUser": "CreatedByUser8",
+        "CreationDateTime": "1999-08-16T07:15:55",
+        "LastChangedByUser": "LastChangedByUser8",
+        "LastChangeDateTime": "1970-08-30T16:18:56",
+        "isDocumentCreationAllowed": false,
+        "FileShareItemContent": "FileShareItemContent8",
+        "FileShareItemContentType": "FileShareItemContentType8",
+        "FileShareItemContentSize": 7654636576047104,
+        "FileShareItemContentLink": "FileShareItemContentLink8",
+        "__CreateByAssociationControl": {
+            "_Children": true
+        },
+        "__EntityControl": {
+            "Deletable": true,
+            "Updatable": true
+        }
+    },
+    {
+        "FileShare": "FileShare9",
+        "FileShareItem": "FileShareItem9",
+        "ParentFileShareItem": "FileShareItem8",
+        "FileShareItemKind": "FileShare9",
+        "FileShareItemName": "FileShareItemName9",
+        "CreatedByUser": "CreatedByUser9",
+        "CreationDateTime": "1982-09-22T12:03:52",
+        "LastChangedByUser": "LastChangedByUser9",
+        "LastChangeDateTime": "1983-01-04T00:10:39",
+        "isDocumentCreationAllowed": true,
+        "FileShareItemContent": "FileShareItemContent9",
+        "FileShareItemContentType": "FileShareItemContentType9",
+        "FileShareItemContentSize": 3327772969664512,
+        "FileShareItemContentLink": "FileShareItemContentLink9",
+        "__CreateByAssociationControl": {
+            "_Children": true
+        },
+        "__EntityControl": {
+            "Deletable": true,
+            "Updatable": false
+        }
+    },
+    {
+        "FileShare": "FileShare10",
+        "FileShareItem": "FileShareItem10",
+        "ParentFileShareItem": "FileShareItem2",
+        "FileShareItemKind": "FileShar10",
+        "FileShareItemName": "FileShareItemName10",
+        "CreatedByUser": "CreatedByUser10",
+        "CreationDateTime": "2010-02-04T23:37:07",
+        "LastChangedByUser": "LastChangedByUser10",
+        "LastChangeDateTime": "1992-06-02T21:13:13",
+        "isDocumentCreationAllowed": false,
+        "FileShareItemContent": "FileShareItemContent10",
+        "FileShareItemContentType": "FileShareItemContentType10",
+        "FileShareItemContentSize": 265922421981184,
+        "FileShareItemContentLink": "FileShareItemContentLink10",
+        "__CreateByAssociationControl": {
+            "_Children": true
+        },
+        "__EntityControl": {
+            "Deletable": true,
+            "Updatable": true
+        }
+    },
+    {
+        "FileShare": "FileShare11",
+        "FileShareItem": "FileShareItem11",
+        "ParentFileShareItem": "FileShareItem3",
+        "FileShareItemKind": "FileShar11",
+        "FileShareItemName": "FileShareItemName11",
+        "CreatedByUser": "CreatedByUser11",
+        "CreationDateTime": "1999-10-15T14:36:24",
+        "LastChangedByUser": "LastChangedByUser11",
+        "LastChangeDateTime": "1971-03-06T14:17:16",
+        "isDocumentCreationAllowed": true,
+        "FileShareItemContent": "FileShareItemContent11",
+        "FileShareItemContentType": "FileShareItemContentType11",
+        "FileShareItemContentSize": 3630068939096064,
+        "FileShareItemContentLink": "FileShareItemContentLink11",
+        "__CreateByAssociationControl": {
+            "_Children": false
+        },
+        "__EntityControl": {
+            "Deletable": false,
+            "Updatable": true
+        }
+    },
+    {
+        "FileShare": "FileShare12",
+        "FileShareItem": "FileShareItem12",
+        "ParentFileShareItem": "FileShareItem5",
+        "FileShareItemKind": "FileShar12",
+        "FileShareItemName": "FileShareItemName12",
+        "CreatedByUser": "CreatedByUser12",
+        "CreationDateTime": "2001-12-13T12:39:27",
+        "LastChangedByUser": "LastChangedByUser12",
+        "LastChangeDateTime": "1999-05-27T13:09:17",
+        "isDocumentCreationAllowed": true,
+        "FileShareItemContent": "FileShareItemContent12",
+        "FileShareItemContentType": "FileShareItemContentType12",
+        "FileShareItemContentSize": 2375943461011456,
+        "FileShareItemContentLink": "FileShareItemContentLink12",
+        "__CreateByAssociationControl": {
+            "_Children": false
+        },
+        "__EntityControl": {
+            "Deletable": false,
+            "Updatable": true
+        }
+    },
+    {
+        "FileShare": "FileShare13",
+        "FileShareItem": "FileShareItem13",
+        "ParentFileShareItem": "FileShareItem9",
+        "FileShareItemKind": "FileShar13",
+        "FileShareItemName": "FileShareItemName13",
+        "CreatedByUser": "CreatedByUser13",
+        "CreationDateTime": "1978-12-02T08:09:15",
+        "LastChangedByUser": "LastChangedByUser13",
+        "LastChangeDateTime": "2012-09-29T22:57:57",
+        "isDocumentCreationAllowed": true,
+        "FileShareItemContent": "FileShareItemContent13",
+        "FileShareItemContentType": "FileShareItemContentType13",
+        "FileShareItemContentSize": 8799177674850304,
+        "FileShareItemContentLink": "FileShareItemContentLink13",
+        "__CreateByAssociationControl": {
+            "_Children": false
+        },
+        "__EntityControl": {
+            "Deletable": false,
+            "Updatable": true
+        }
+    },
+    {
+        "FileShare": "FileShare14",
+        "FileShareItem": "FileShareItem14",
+        "ParentFileShareItem": "FileShareItem8",
+        "FileShareItemKind": "FileShar14",
+        "FileShareItemName": "FileShareItemName14",
+        "CreatedByUser": "CreatedByUser14",
+        "CreationDateTime": "1995-04-07T04:10:22",
+        "LastChangedByUser": "LastChangedByUser14",
+        "LastChangeDateTime": "1993-06-28T07:04:24",
+        "isDocumentCreationAllowed": false,
+        "FileShareItemContent": "FileShareItemContent14",
+        "FileShareItemContentType": "FileShareItemContentType14",
+        "FileShareItemContentSize": 1991116134023168,
+        "FileShareItemContentLink": "FileShareItemContentLink14",
+        "__CreateByAssociationControl": {
+            "_Children": true
+        },
+        "__EntityControl": {
+            "Deletable": false,
+            "Updatable": true
+        }
+    },
+    {
+        "FileShare": "FileShare15",
+        "FileShareItem": "FileShareItem15",
+        "ParentFileShareItem": "FileShareItem7",
+        "FileShareItemKind": "FileShar15",
+        "FileShareItemName": "FileShareItemName15",
+        "CreatedByUser": "CreatedByUser15",
+        "CreationDateTime": "2009-07-11T08:44:15",
+        "LastChangedByUser": "LastChangedByUser15",
+        "LastChangeDateTime": "2013-08-12T23:42:31",
+        "isDocumentCreationAllowed": true,
+        "FileShareItemContent": "FileShareItemContent15",
+        "FileShareItemContentType": "FileShareItemContentType15",
+        "FileShareItemContentSize": 5805502866915328,
+        "FileShareItemContentLink": "FileShareItemContentLink15",
+        "__CreateByAssociationControl": {
+            "_Children": false
+        },
+        "__EntityControl": {
+            "Deletable": false,
+            "Updatable": true
+        }
+    },
+    {
+        "FileShare": "FileShare16",
+        "FileShareItem": "FileShareItem16",
+        "ParentFileShareItem": "FileShareItem6",
+        "FileShareItemKind": "FileShar16",
+        "FileShareItemName": "FileShareItemName16",
+        "CreatedByUser": "CreatedByUser16",
+        "CreationDateTime": "1994-10-03T01:45:48",
+        "LastChangedByUser": "LastChangedByUser16",
+        "LastChangeDateTime": "1974-10-16T05:33:20",
+        "isDocumentCreationAllowed": true,
+        "FileShareItemContent": "FileShareItemContent16",
+        "FileShareItemContentType": "FileShareItemContentType16",
+        "FileShareItemContentSize": 732868839997440,
+        "FileShareItemContentLink": "FileShareItemContentLink16",
+        "__CreateByAssociationControl": {
+            "_Children": true
+        },
+        "__EntityControl": {
+            "Deletable": true,
+            "Updatable": false
+        }
+    },
+    {
+        "FileShare": "FileShare17",
+        "FileShareItem": "FileShareItem17",
+        "ParentFileShareItem": "FileShareItem5",
+        "FileShareItemKind": "FileShar17",
+        "FileShareItemName": "FileShareItemName17",
+        "CreatedByUser": "CreatedByUser17",
+        "CreationDateTime": "1979-04-17T22:52:51",
+        "LastChangedByUser": "LastChangedByUser17",
+        "LastChangeDateTime": "1988-03-31T17:23:20",
+        "isDocumentCreationAllowed": true,
+        "FileShareItemContent": "FileShareItemContent17",
+        "FileShareItemContentType": "FileShareItemContentType17",
+        "FileShareItemContentSize": 6146111609765888,
+        "FileShareItemContentLink": "FileShareItemContentLink17",
+        "__CreateByAssociationControl": {
+            "_Children": true
+        },
+        "__EntityControl": {
+            "Deletable": true,
+            "Updatable": true
+        }
+    },
+    {
+        "FileShare": "FileShare18",
+        "FileShareItem": "FileShareItem18",
+        "ParentFileShareItem": "FileShareItem5",
+        "FileShareItemKind": "FileShar18",
+        "FileShareItemName": "FileShareItemName18",
+        "CreatedByUser": "CreatedByUser18",
+        "CreationDateTime": "1981-12-03T05:53:15",
+        "LastChangedByUser": "LastChangedByUser18",
+        "LastChangeDateTime": "2003-01-08T06:21:53",
+        "isDocumentCreationAllowed": false,
+        "FileShareItemContent": "FileShareItemContent18",
+        "FileShareItemContentType": "FileShareItemContentType18",
+        "FileShareItemContentSize": 3925384630370304,
+        "FileShareItemContentLink": "FileShareItemContentLink18",
+        "__CreateByAssociationControl": {
+            "_Children": false
+        },
+        "__EntityControl": {
+            "Deletable": true,
+            "Updatable": true
+        }
+    },
+    {
+        "FileShare": "FileShare19",
+        "FileShareItem": "FileShareItem19",
+        "ParentFileShareItem": "FileShareItem18",
+        "FileShareItemKind": "FileShar19",
+        "FileShareItemName": "FileShareItemName19",
+        "CreatedByUser": "CreatedByUser19",
+        "CreationDateTime": "2004-03-21T08:53:07",
+        "LastChangedByUser": "LastChangedByUser19",
+        "LastChangeDateTime": "2001-09-23T22:48:50",
+        "isDocumentCreationAllowed": true,
+        "FileShareItemContent": "FileShareItemContent19",
+        "FileShareItemContentType": "FileShareItemContentType19",
+        "FileShareItemContentSize": 3234468997365760,
+        "FileShareItemContentLink": "FileShareItemContentLink19",
+        "__CreateByAssociationControl": {
+            "_Children": true
+        },
+        "__EntityControl": {
+            "Deletable": true,
+            "Updatable": false
+        }
+    },
+    {
+        "FileShare": "FileShare20",
+        "FileShareItem": "FileShareItem20",
+        "ParentFileShareItem": "FileShareItem3",
+        "FileShareItemKind": "FileShar20",
+        "FileShareItemName": "FileShareItemName20",
+        "CreatedByUser": "CreatedByUser20",
+        "CreationDateTime": "1980-09-07T07:19:34",
+        "LastChangedByUser": "LastChangedByUser20",
+        "LastChangeDateTime": "1990-05-01T07:29:16",
+        "isDocumentCreationAllowed": true,
+        "FileShareItemContent": "FileShareItemContent20",
+        "FileShareItemContentType": "FileShareItemContentType20",
+        "FileShareItemContentSize": 400715191156736,
+        "FileShareItemContentLink": "FileShareItemContentLink20",
+        "__CreateByAssociationControl": {
+            "_Children": false
+        },
+        "__EntityControl": {
+            "Deletable": true,
+            "Updatable": true
+        }
+    }
+]
